@@ -41,7 +41,7 @@ This bar chart displays the total COVID-19 cases across different African region
 <img width="681" alt="image" src="https://github.com/user-attachments/assets/6dc8eeb3-f258-477a-a4c6-55738bb5c670">
 
 ## SQL Queries
-The SQL queries used to generate the data for these visualizations can be found in the [SQL file](./SQL/covid_africa_queries.sql).
+The SQL queries used to generate the data for these visualizations can be found in the [covid_africa.csv](./SQL/covid_africa_queries.sql).
 
 ## Dataset
-The dataset used for this analysis is available for download [here](./Data/covid_africa.csv).
+The dataset used for this analysis is available for download [covid_africa_queries.sql](./Data/covid_africa.csv).
